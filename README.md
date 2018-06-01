@@ -1,7 +1,7 @@
 # Twitter_bot
 A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 
-**##Automating certain actions on Twitter**<br />
+**Automating certain actions on Twitter**<br />
 *Update our twitter status from a text file<br />
 *Automatically follow any users that have followed you<br />
 *Automatically retweet any tweets that have a specific phrase<br />
