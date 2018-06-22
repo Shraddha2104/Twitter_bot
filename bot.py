@@ -5,11 +5,11 @@ from time import sleep
 
 try:
 # put your twitter tokens, keys, secrets, and twitter handle in the following variables
-    OAUTH_TOKEN = "1002044375336144896-hXs0LxeI9dc85lhdAGRzVCQZ65ymEW"
-    OAUTH_SECRET = "c4OGLmkSAnaoIRftiqyTbSpXA4aancPUIKuCWzZdq24ji"
-    CONSUMER_KEY = "LajRUb72Y6NiFdhajJsOXmHfP"
-    CONSUMER_SECRET = "SofeDhdBNtGGX9IDMFkISgUGKRafIA20QuxpznrQ4zSFEQhOBL"
-    TWITTER_HANDLE = "ShraddhaShalig2"
+    OAUTH_TOKEN = ""
+    OAUTH_SECRET = ""
+    CONSUMER_KEY = ""
+    CONSUMER_SECRET = ""
+    
     t = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET,
                 CONSUMER_KEY, CONSUMER_SECRET))
 
